@@ -1,7 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
 
 
 
@@ -182,15 +178,6 @@ if len(disk_track) != 0:
         else:
             print("До встречи!")
             break   
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
